@@ -1,0 +1,9 @@
+{
+  "name": "Quan AI Camera",
+  "description": "Next-gen Quantum AI Camera with Neural Stacking, Cinematic Veo Integration, and Real-time Voice Coaching.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}

@@ -1,0 +1,14 @@
+
+{
+  "appId": "com.quancam.ai",
+  "appName": "Quan AI Camera",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true
+  }
+}
