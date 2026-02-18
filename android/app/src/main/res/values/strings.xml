@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quan AI Camera</string>
+    <string name="title_activity_main">Quan AI Camera</string>
+    <string name="package_name">com.romecam.pro</string>
+    <string name="custom_url_scheme">com.romecam.pro</string>
+</resources>
