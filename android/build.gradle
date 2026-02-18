@@ -10,12 +10,7 @@ buildscript {
     }
 }
 
-allprojects {
-    repositories {
-        google()
-        mavenCentral()
-    }
-}
+apply from: "variables.gradle"
 
 task clean(type: Delete) {
     delete rootProject.buildDir
